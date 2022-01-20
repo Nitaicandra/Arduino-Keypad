@@ -1,5 +1,5 @@
 # Arduino-Keypad
-Hand wired arduino keypad with working analog stick shell was 3d printed 
+Hand wired arduino testing keypad with working analog stick and 3d printed shell
 
 
 ![Resized_Resized_20200912_191637002](https://user-images.githubusercontent.com/89361982/150275698-61681289-95eb-4498-8fbb-de698e036de4.jpeg)
